@@ -1,4 +1,4 @@
-/**
+/*
 * David Lutelmowski
 * 2/18/19
 * Area Of Triangle Program
@@ -7,7 +7,10 @@
 package areaoftriangle;
 import javax.swing.*;
 import java.math.*;
-
+/**
+ * 
+ * @author dalut3278
+ */
 public class AreaOfTriangle {
     
 
